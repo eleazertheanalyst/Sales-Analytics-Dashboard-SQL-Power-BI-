@@ -1,7 +1,7 @@
 
 # Sales Analytics Dashboard (SQL + Power BI)
 
-### Dashboard Link : [https://app.powerbi.com/groups/dc3f4dcf-3a16-4f02-8302-60857ec16756/reports/519551e1-cb34-4746-a517-3d7034419cf2/b970eb87132d6650c0dc?experience=power-bi](https://app.powerbi.com/groups/dc3f4dcf-3a16-4f02-8302-60857ec16756/reports/8e2cf146-590d-4ed5-84eb-12f2c1eaece3/684b2a4e79bbce4c98bf?experience=power-bi)
+### Dashboard Link : https://app.powerbi.com/groups/dc3f4dcf-3a16-4f02-8302-60857ec16756/reports/8e2cf146-590d-4ed5-84eb-12f2c1eaece3/684b2a4e79bbce4c98bf?experience=power-bi
 
 ## Project Overview
 This project analyzes sales performance across accounts, products, and sales agents to uncover key drivers of revenue, win rates, and pipeline efficiency.
