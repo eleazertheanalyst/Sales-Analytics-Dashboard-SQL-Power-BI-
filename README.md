@@ -125,7 +125,7 @@ This structure enables stakeholders to analyze sales performance from multiple p
 <img width="1310" height="732" alt="Image" src="https://github.com/user-attachments/assets/b91190e2-ccee-40a9-9302-c3d2f9aeb7c6" />
 
 ## Account Analysis Dashboard
-<img width="1311" height="733" alt="Image" src="https://github.com/user-attachments/assets/7fe33427-2b58-4e80-869b-3a6d07e5885d" />
+<img width="1421" height="790" alt="Image" src="https://github.com/user-attachments/assets/779e0b7e-9b0f-4383-bc3c-c8852000addd" />
 
 # Dashboard Insights
 ### **Sales Pipeline Overview**
