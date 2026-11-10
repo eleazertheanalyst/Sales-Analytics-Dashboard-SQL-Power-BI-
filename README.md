@@ -1,7 +1,7 @@
 
 # Sales Analytics Dashboard (SQL + Power BI)
 
-### Dashboard Link : https://app.powerbi.com/groups/dc3f4dcf-3a16-4f02-8302-60857ec16756/reports/8e2cf146-590d-4ed5-84eb-12f2c1eaece3/684b2a4e79bbce4c98bf?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZDkwODcwYjUtNmUyYS00ZTNlLTk0NmUtZWVhN2NkMzc4ZDQ3IiwidCI6ImViOGQyOTdiLTQyNWYtNDcyNy05N2QzLTkzNWE3NjlkNDhmOCJ9
 
 ## Project Overview
 This project analyzes sales performance across accounts, products, and sales agents to uncover key drivers of revenue, win rates, and pipeline efficiency.
@@ -116,16 +116,16 @@ This structure enables stakeholders to analyze sales performance from multiple p
  
 # Report Snapshot (Power BI DESKTOP)
 ## Sales Pipeline Overview Dashboard
-<img width="1309" height="733" alt="Image" src="https://github.com/user-attachments/assets/0cf30866-f7b3-4d59-b50d-231249244f06" />
+<img width="1424" height="794" alt="Image" src="https://github.com/user-attachments/assets/9e32a3d2-14c4-4970-81f8-dcd4bb49c7e4" />
 
 ## Sales Agent Performance Dashboard
-<img width="1311" height="731" alt="Image" src="https://github.com/user-attachments/assets/eafc5732-e60c-4f74-8f7d-c7509d0517ef" />
+<img width="1425" height="790" alt="Image" src="https://github.com/user-attachments/assets/0fa87eeb-671f-4cc0-9ef5-c5b054dabc61" />
 
 ## Product Analysis Dashboard
-<img width="1310" height="732" alt="Image" src="https://github.com/user-attachments/assets/b91190e2-ccee-40a9-9302-c3d2f9aeb7c6" />
+<img width="1421" height="799" alt="Image" src="https://github.com/user-attachments/assets/b4de75db-9ecb-4564-a226-2165aa155509" />
 
 ## Account Analysis Dashboard
-<img width="1421" height="790" alt="Image" src="https://github.com/user-attachments/assets/779e0b7e-9b0f-4383-bc3c-c8852000addd" />
+<img width="1424" height="795" alt="Image" src="https://github.com/user-attachments/assets/38fa9241-fbcf-4e87-b27c-e6d44fd8b688" />
 
 # Dashboard Insights
 ### **Sales Pipeline Overview**
